@@ -1,16 +1,14 @@
-## Hi there 👋
+# Rumah126 Official
 
-<!--
-**Rumah126Official/Rumah126Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rumah126 Official adalah profil brand digital saya.
 
-Here are some ideas to get you started:
+Website utama:
+https://mez.ink/rumah126
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social:
+- Medium
+- Pinterest
+- About.me
+
+Lokasi:
+Indonesia
