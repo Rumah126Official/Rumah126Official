@@ -1,7 +1,6 @@
 # Rumah126 Official
 
-Rumah126 Official adalah profil brand digital saya.
-
+Rumah126 : Situs Hiburan Online Terpercaya
 Website utama:
 https://mez.ink/rumah126
 
